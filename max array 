@@ -1,0 +1,4 @@
+def find_max(arr)
+return max(arr)
+arr[10,25,7,45,18]
+print(find_max(arr))
